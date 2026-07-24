@@ -1,0 +1,13 @@
+{
+  "name": "session3-auth",
+  "version": "1.0.0",
+  "description": "Session 3 - JWT Authentication assignment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
